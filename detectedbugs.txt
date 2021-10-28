@@ -1,0 +1,5 @@
+Bugs detected
+
+The right arrow is not cleaning up the input (Should it be that way?)
+Privacy and Terms&cConditions links have been swapped
+The EndPoint calculating the factorial is behaving abnormally, it returns (HTTP 500) for integers > 989 and any other character
